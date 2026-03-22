@@ -46,7 +46,7 @@ def awgn(x,n):
     return list(map(...))
 #Detekcja -> Zamiana każdej wartości >0 na 1, reszta na 0
 def detect(x):
-    return list(map(lambda a: 1 if a>0 else 0, x))
+    return list(map(...))
 
 #Liczenie błędów -> policzenie ilości różnic w symbolach
 #Podpowiedź - np.array(x)-np.array(y) zwraca array różnic poszczególnych elementów
