@@ -9,7 +9,7 @@ def divide(a,b):
     a = a/b
     result = a
 
-divide(6/3)
+divide(6,3)
 result = result*2
 
 #Naprawiony kod zapisz poniżej
