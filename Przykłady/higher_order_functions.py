@@ -7,6 +7,19 @@ def apply(func, value):
     return func(value)
 
 result = apply(double, 5)
+print(result)
+
+#Przykład funkcji która zwraca funkcje
+def multiply_by(x):
+    def multi(a):
+        return a*x
+    return multi
+
+triple = multiply_by(3)
+
+result = apply(triple, 5)
+
+print(result)
 
 #2. Funkcja wyższego rzędu map i filter
 
