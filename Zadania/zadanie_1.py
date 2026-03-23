@@ -1,4 +1,4 @@
-#Napraw kod aby spełniał założenia progeramowania funkcyjnego
+#Napraw kod aby spełniał założenia programowania funkcyjnego
 #Końcowo program ma korzystać z funkcji do dzielenia liczb 6/3 
 #i w osobnej linijce podwojenia wyniku (niekoniecznie z użyciem funkcji)
 
